@@ -1,17 +1,12 @@
 # PROJECTS
 
-**Control effectiveness using Data Analytics
-**
+**Control effectiveness using Data Analytics**
+
 Objective: Develop a solution for automated evaluation of expense data to identify and report outliers against the expense policy in authorisation workflows using Data Analytics and automation. 
 
 Implementation: We developed multiple automated checks which validate toxic combinations in expense data extracted from SAP Concur and report outliers. These outliers are further examined to identify any policy violation or potential fraud. We scheduled the analysis to automatically run periodically and provide a report to the key stakeholders which can further perform an RCA or design more controls. 
 
 Tools Used: SAP Concur, Python, MS Excel, Power BI
-
-
-
-
-
 
 **Continuous monitoring  of IT General Controls using Data Analytics**
 
